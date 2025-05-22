@@ -29,7 +29,7 @@
             //                      | GUI | LWR | SPC |     | RET | RSE | ALT |
 
             bindings = <
-&kp TAB           &kp Q  &kp W  &kp F             &kp P  &kp B        &kp J          &kp L  &kp U      &kp Y    &kp SEMICOLON  &kp A
+&kp TAB           &kp Q  &kp W  &kp F             &kp P  &kp B        &kp J          &kp L  &kp U      &kp Y    &kp SEMICOLON  &kp APOSTROPHE
 &kp LEFT_SHIFT    &kp A  &kp R  &kp S             &kp T  &kp G        &kp M          &kp N  &kp E      &kp I    &kp O          &kp RIGHT_SHIFT
 &kp LEFT_COMMAND  &kp Z  &kp X  &kp C             &kp D  &kp V        &kp K          &kp H  &kp COMMA  &kp DOT  &kp FSLH       &kp ENTER
                                 &kp LEFT_CONTROL  &mo 1  &kp SPACE    &kp BACKSPACE  &mo 2  &kp RALT
